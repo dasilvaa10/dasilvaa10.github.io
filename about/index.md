@@ -6,7 +6,6 @@ date: 2016-03-21
 comments: false
 ---
     
-<object data="{{ dasilvaa10.github.io\dasilvaa10.github.io\assets\img\cv.pdf }}" width="1000" height="1000" type='application/pdf'/>
 
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
@@ -37,3 +36,5 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+<object data="{{ dasilvaa10.github.io\dasilvaa10.github.io\assets\img\cv.pdf }}" width="1000" height="1000" type='application/pdf'/>
