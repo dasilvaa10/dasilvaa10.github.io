@@ -9,7 +9,8 @@ comments: false
 
 <center><a href="https://github.com/dasilvaa10/dasilvaa10.github.io/blob/master/assets/img/cv.pdf"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-<iframe src=" https://dasilvaa10.github.io/assets/img/cv.pdf" width="100%" height = "700px" align="right"> </iframe>
+<iframe src=" https://dasilvaa10.github.io/assets/cv.pdf" width="100%" height = "700px" align="right"> </iframe>
+[CV](https://dasilvaa10.github.io/assets/cv.pdf)
 
 
 ## Features
