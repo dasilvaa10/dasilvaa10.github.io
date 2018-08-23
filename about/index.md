@@ -9,6 +9,10 @@ comments: false
 
 <center><a href="https://github.com/dasilvaa10/dasilvaa10.github.io/blob/master/assets/img/cv.pdf"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
+<a href="https://github.com/dasilvaa10/dasilvaa10.github.io/blob/master/assets/img/cv.pdf">CV</a>
+
+
+
 ## Features
 * Minimal, you can focus on your content
 * Responsive
