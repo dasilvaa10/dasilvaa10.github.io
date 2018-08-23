@@ -7,7 +7,7 @@ comments: false
 ---
     
 
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://github.com/dasilvaa10/dasilvaa10.github.io/blob/master/assets/img/cv.pdf"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
 * Minimal, you can focus on your content
@@ -37,4 +37,3 @@ To learn how to install and use this theme check out the [Setup Guide](http://ta
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
 
-<object data="{{ dasilvaa10.github.io\dasilvaa10.github.io\assets\img\cv.pdf }}" width="1000" height="1000" type='application/pdf'/>
