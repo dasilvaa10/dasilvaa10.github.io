@@ -7,7 +7,7 @@ comments: false
 ---
     
 
-{% capture images %} https://github.com/dasilvaa10/dasilvaa10.github.io/blob/master/assets/img/logo_alex.jpg {% endcapture %}
+{% capture images %} https://github.com/dasilvaa10/dasilvaa10.github.io/blob/master/assets/img/logo_alex.jpg {% endcapture %} {% include gallery images=images caption="" cols=1 %}
 
 I'm a graduate student in department of <a href="https://pbs.dartmouth.edu//"><b>Psychological and Brain Sciences</b></a> at Dartmouth College working with Dr. Meghan Meyer in the <a href="http://www.dartmouth-socialneurolab.com/"><b>Dartmouth Social Neuroscience Lab</b></a>.  Broadly, I study aspects of self-processing and mental health using behavioral measures and smartphone sensing.  Before Dartmouth, I graduated Iowa State University with a major in psychology and minor in statistics. While at Iowa State, I also completed a NSF <a href="https://psych.sc.edu/srebcs/"><b>REU</b></a> at the University of South Carolina.
 
