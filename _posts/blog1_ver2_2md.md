@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Testing post"
+date: 2018-08-26
+excerpt: "testy test"
+tags: [testttt]
+comments: true
+---
 <style type="text/css">
 
 h1.title {
