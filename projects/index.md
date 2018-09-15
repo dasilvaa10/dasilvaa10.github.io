@@ -1,7 +1,8 @@
 ---
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
+layout: page
+title: Projects
+tags: [about, cv]
+date: 2018-09-15
 comments: false
 ---
 
