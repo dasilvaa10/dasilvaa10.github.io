@@ -7,7 +7,7 @@ comments: false
 ---
 
 ### Mobile Sensing, Mental Health and Individual Differences
-One component of my research utilizes continuous mobile sensing to better understand factors related to mental health and personality.  This work is done in conjunction with Dr. Andrew Campbell's <a href="http://dartnets.cs.dartmouth.edu/"><b>research group</b></a> who created the <a href="http://studentlife.cs.dartmouth.edu/"><b>StudentLife App</b></a>.  Together, our research groups' have examined continuous sensing factors related to <a href="http://studentlife.cs.dartmouth.edu/a43-Wang.pdf"><b>depression</b></a>, <a href="http://preprints.jmir.org/preprint/12084"><b>stress</b></a>, and conducted pilot work linking <a href="https://www.biorxiv.org/content/biorxiv/early/2018/03/05/276568.full.pdf"><b>passive sensing features to brain imaging data</b></a>.
+One component of my research utilizes continuous mobile sensing to better understand factors related to mental health and personality.  This work is done in conjunction with Dr. Andrew Campbell's <a href="http://dartnets.cs.dartmouth.edu/"><b>research group</b></a> who created the <a href="http://studentlife.cs.dartmouth.edu/"><b>StudentLife App</b></a>.  Together, our research groups have examined continuous sensing factors related to <a href="http://studentlife.cs.dartmouth.edu/a43-Wang.pdf"><b>depression</b></a>, <a href="http://preprints.jmir.org/preprint/12084"><b>stress</b></a>, and conducted pilot work linking <a href="https://www.biorxiv.org/content/biorxiv/early/2018/03/05/276568.full.pdf"><b>passive sensing features to brain imaging data</b></a>.
 
 
 ### Self and Social Processing
