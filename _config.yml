@@ -1,7 +1,7 @@
 # Site
 title:              Alex daSilva
 bio:                'PhD Student at Dartmouth College'
-description:        ""
+description:        "Email: Alexander.W.daSilva@dartmouth.edu"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/new_linked.jpg'
@@ -37,10 +37,10 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email: Alexander.W.Dasilva.GR@Dartmouth.edu
+#email: Alexander.W.Dasilva.GR@Dartmouth.edu
 #twitter:            username
 #facebook:           username
-github-url:         #dasilvaa10
+github-url:         dasilvaa10
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          alex-dasilva-a84a17170/
 #xing:              username
