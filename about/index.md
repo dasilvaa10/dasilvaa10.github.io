@@ -13,5 +13,5 @@ I'm a graduate student in department of <a href="https://pbs.dartmouth.edu//"><b
 
 Contact: Alexander.W.daSilva.GR@dartmouth.edu
 
-[CV](https://dasilvaa10.github.io/assets/cv.pdf)
+[resume](https://dasilvaa10.github.io/assets/resume.pdf)
 
