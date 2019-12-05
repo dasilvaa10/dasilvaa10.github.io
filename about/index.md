@@ -31,9 +31,12 @@ Before Dartmouth, I graduated from Iowa State University with a major in psychol
 [Resume](https://dasilvaa10.github.io/assets/resume.pdf)
 
 
+
+
+<img style="width:300;height:213px; margin: 0px 0px 0px 0px" src="new_linked.jpg">
 -->
 
-<img style=" width:300;height:213px; margin: 0px 0px 0px 0px" src="new_linked.jpg">
+![img](new_linked.jpg)
 
 I'm a graduate student in department of <a href="https://pbs.dartmouth.edu//"><b>Psychological and Brain Sciences</b></a> at Dartmouth College working with Dr. Meghan Meyer in the <a href="http://www.dartmouth-socialneurolab.com/"><b>Dartmouth Social Neuroscience Lab</b></a>. In my research, I use data collected passively through smartphones to better understand aspects of mental health and personality. For a more in-depth look at my research check out my <a href="https://dasilvaa10.github.io/projects/"><b>projects</b></a> page.
 
