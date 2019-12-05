@@ -9,7 +9,7 @@ comments: false
 ![img alt >](mhealth.jpg)
 -->
 
-<img style="float: right; width:300;height:300px; margin: 0px 20px" src="mhealth.jpg">
+<img style="float: right; width:245;height:245px; margin: 0px 20px" src="mhealth.jpg">
 
 ### Mobile Sensing and Individual Differences
 
@@ -29,7 +29,7 @@ One component of my research utilizes continuous mobile sensing to better unders
  -->
 
 
-<img style="float: left; width:322;height:228px; margin: 0px 20px" src="brain.jpg">
+<img style="float: left; width:250;height:177px; margin: 0px 20px" src="brain.jpg">
 
 
 ### Brain and Behavior
