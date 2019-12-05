@@ -9,7 +9,7 @@ comments: false
 ![img alt >](mhealth.jpg)
 -->
 
-<img style="float: right; width:250px;height:250px" src="mhealth.jpg">
+<img style="float: right; width:250px;height:250px" src="mhealth.jpg hspace = 20">
 
 ### Mobile Sensing and Individual Differences
 
