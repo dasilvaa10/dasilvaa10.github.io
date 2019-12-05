@@ -14,7 +14,7 @@ comments: false
 
 
 <div style="text-align: left">
-I'm a graduate student in department of <a href="https://pbs.dartmouth.edu//"><b>Psychological and Brain Sciences</b></a> at Dartmouth College working with Dr. Meghan Meyer in the <a href="http://www.dartmouth-socialneurolab.com/"><b>Dartmouth Social Neuroscience Lab</b></a>. In my research, I use data collected passively through smartphones to better understand aspects of mental health and personality. 
+I'm a graduate student in department of <a href="https://pbs.dartmouth.edu//"><b>Psychological and Brain Sciences</b></a> at Dartmouth College working with Dr. Meghan Meyer in the <a href="http://www.dartmouth-socialneurolab.com/"><b>Dartmouth Social Neuroscience Lab</b></a>. In my research, I use data collected passively through smartphones to better understand aspects of mental health and personality. For a more in-depth look at my research check out my <a href="https://dasilvaa10.github.io/projects/"><b>projects</b></a> page.
 
 
 <br>
