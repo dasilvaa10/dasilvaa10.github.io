@@ -43,11 +43,11 @@ The second line of my research seeks to better understand the relationship betwe
 
 ### Mobile Sensing and Individual Differences
 
-<img style="float: right; width:245;height:245px; margin: 0px 0px" src="mhealth.jpg">
+<img style=" width:245;height:245px; margin: 0px 0px" src="mhealth.jpg">
 
 One component of my research utilizes continuous mobile sensing to better understand factors related to mental health and personality. This work is done in conjunction with Dr. Andrew Campbell's <a href="http://dartnets.cs.dartmouth.edu/"><b>research group</b></a> who created the <a href="http://studentlife.cs.dartmouth.edu/"><b>StudentLife App</b></a>.  Together, our research groups have examined continuous sensing factors related to <a href="http://studentlife.cs.dartmouth.edu/a43-Wang.pdf"><b>depression</b></a>, <a href="https://mhealth.jmir.org/2019/3/e12084/"><b>stress</b></a>, and used <a href="https://static1.squarespace.com/static/57265384b09f951c90d0fed2/t/5dbb74d3e62ee56117eadfe9/1572566228810/DaSilva+-+Stress+and+Social+Interaction.pdf"><b>network models</b></a> to better understand how stress impacts subsequent behavior, particularly social behavior.
 
-<img style="float: left; width:250;height:177px; margin: 0px 0px" src="brain.jpg">
+<img style=" width:250;height:177px; margin: 0px 0px" src="brain.jpg">
 
 ### Brain and Behavior
 
