@@ -29,7 +29,7 @@ One component of my research utilizes continuous mobile sensing to better unders
  -->
 
 
-<img style="float: left; width:400;height:205px; margin: 0px 20px" src="brain.jpg">
+<img style="float: left; width:322;height:228px; margin: 0px 20px" src="brain.jpg">
 
 
 ### Brain and Behavior
