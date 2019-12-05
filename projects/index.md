@@ -9,11 +9,10 @@ comments: false
 ![img alt >](mhealth.jpg)
 -->
 
-<img style="float: right; width:250px;height:250px; margin: 0px 20px" src="mhealth.jpg">
+<img style="float: right; width:300;height:300px; margin: 0px 20px" src="mhealth.jpg">
 
 ### Mobile Sensing and Individual Differences
 
-<br>
 
 <div style="text-align: left">
 
@@ -30,13 +29,14 @@ One component of my research utilizes continuous mobile sensing to better unders
  -->
 
 
-<img style="float: left; width:250px;height:250px; margin: 0px 20px" src="brain.jpg">
+<img style="float: left; width:300;height:153px; margin: 0px 20px" src="brain.jpg">
+
+
+### Brain and Behavior
 
 
 <div style="text-align: right">
 
-
-### Brain and Behavior
 The second line of my research seeks to better understand the relationship between brain (measured with functional neuroimaging) and behavior (measued objectively with passive sensing). Our group has conducted pilot work linking <a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.00248/full"><b>passive sensing features to brain imaging data</b></a>. In progress are projects using predictive modeling and analytic techniques for intensively collected longituindal data to further understand the interplay between these two data modalities.
 
 </div>
