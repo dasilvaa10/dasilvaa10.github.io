@@ -10,7 +10,7 @@ comments: false
 ![img](new_linked.jpg)
 -->
 
-<img style="float: right; width:280;height:198px; margin: 0px 30px 0px 30px" src="new_linked.jpg">
+<img style="float: right; width:280;height:198px; margin: 0px 60px 0px 30px" src="new_linked.jpg">
 
 
 <div style="text-align: left">
