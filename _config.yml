@@ -30,9 +30,9 @@ disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics: UA-128068225-1
+  analytics: UA-128068225-1
   #verify:
   #ad-client:
   #ad-slot:
@@ -61,7 +61,7 @@ medium:            '@awdasilva21'
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-scholar:            citations?user=fyRNKz4AAAAJ&hl=en
+scholar:            citations?user=fyRNKz4AAAAJ&hl=en.com
 
 # Gems
 gems:
