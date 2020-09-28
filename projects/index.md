@@ -55,5 +55,5 @@ One component of my research utilizes continuous mobile sensing to better unders
 
 ### Brain and Behavior
 
-The second line of my research seeks to better understand the relationship between brain (measured with functional neuroimaging) and behavior (measued objectively with passive sensing). Our group has conducted pilot work linking <a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.00248/full"><b>passive sensing features to brain imaging data</b></a>. In progress are projects using predictive modeling and analytic techniques for intensively collected longituindal data to further understand the interplay between these two data modalities.
+The second line of my research seeks to better understand the relationship between brain (measured with functional neuroimaging) and behavior (measued objectively with passive sensing). Our group has conducted pilot work linking <a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.00248/full"><b>passive sensing features to brain imaging data</b></a>. More recent work has used <a href="https://dl.acm.org/doi/pdf/10.1145/3381001"><b>predictive modeling</b></a> to further understand the interplay between these two data modalities.
 
